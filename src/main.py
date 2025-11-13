@@ -1,10 +1,9 @@
 #!/usr/bin/env python3
-from typing import List
-from building import Building
-from bst import BST
-from avl import AVL
-from graph import CampusGraph
-from expression_tree import ExpressionTree
+from src.building import Building
+from src.bst import BST
+from src.avl import AVL
+from src.graph import CampusGraph
+from src.expression_tree import ExpressionTree
 
 def demo():
     print("\n--- DEMO: Campus Navigation & Utility Planner (Python) ---\n")
