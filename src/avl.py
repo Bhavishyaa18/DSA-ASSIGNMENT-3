@@ -1,5 +1,6 @@
 from typing import Optional, List
-from .building import Building
+from src.building import Building
+
 
 class AVLNode:
     def __init__(self, building: Building):
