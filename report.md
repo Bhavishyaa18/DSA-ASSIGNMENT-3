@@ -33,3 +33,5 @@ Methods: insertBuilding, traverseBuildings, evaluateExpression (via expression t
 Run `python3 src/main.py` to view sample outputs and use `test_data.txt` for building/edge examples.
 
 Prepared for ENCS205 — Assignment 3.
+
+<img width="1470" height="916" alt="Screenshot 2025-11-13 at 11 48 48 PM" src="https://github.com/user-attachments/assets/2d366351-051b-40bc-abe1-1d0aa8204d5f" />
